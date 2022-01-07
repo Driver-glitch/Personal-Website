@@ -1,0 +1,115 @@
+.center {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;  
+  padding: 70px;
+}
+h1{
+  padding: 10%;
+}
+p {
+display: flex;
+flex-flow: column;
+align-items: center;
+flex: 1;
+margin: 0 auto;  
+max-width: 1120px;
+border-radius: 10px;
+font-size: 10pt;
+ 
+}
+.bio{
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+  font-size: 10pt;
+}
+.dan{
+  display: flex;
+  height: 100%;
+  width: 90%;
+  padding: 20px;
+}
+@media screen and (max-width: 768px) {
+  .dan {
+  width: 120%;
+  padding: 20px;
+  margin-top: -100px;
+  }
+}
+
+.marine{
+  display: flex;
+  height: 100%;
+  width: 90%;
+  padding: 20px;
+ 
+}
+@media screen and (max-width: 768px) {
+  .marine {
+   width: 120%;
+  }
+}
+.newOrleans{
+  display: flex;
+  height: 100%;
+  width: 70%;
+  padding: 20px;
+}
+@media screen and (max-width: 768px) {
+  .newOrleans {
+   width: 120%;
+
+  }
+}
+.oakHarbor{
+  display: flex;
+  height: 100%;
+  width: 70%;
+  padding: 20px;
+}
+@media screen and (max-width: 768px) {
+  .oakHarbor {
+   width: 120%;
+  }
+}
+.motorcycle{
+  display: flex;
+  height: 100%;
+  width: 70%;
+  padding: 20px;
+}
+@media screen and (max-width: 768px) {
+  .motorcycle {
+   width: 120%;
+ 
+  }
+}
+.jetski{
+  display: flex;
+  height: 100%;
+  width: 70%;
+  padding: 20px;
+}
+@media screen and (max-width: 768px) {
+  .jetski {
+   width: 120%;
+
+  }
+}
+
+.truck{
+  display: flex;
+  height: 100%;
+  width: 70%;
+  padding: 20px;
+}
+@media screen and (max-width: 768px) {
+  .truck {
+   width: 120%;
+
+  }
+}
