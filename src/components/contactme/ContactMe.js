@@ -5,6 +5,19 @@ import Footer from '../footer/Footer';
 import './Contactme.css'
 
 
+ const array = [] 
+
+ const array = new array ()
+
+ const object = {
+    "gender": female,
+    
+
+ }
+
+
+console.log("!!!!", object.gender)
+
 function ContactUs() {
 
     const form = useRef();
